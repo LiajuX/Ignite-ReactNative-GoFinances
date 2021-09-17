@@ -41,10 +41,11 @@ This project was developed during the React Native trail of [Ignite](https://roc
 GoFinances consists of an app to track transactions and summarize your expenses by categories.
 <br>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/53796370/133780396-1b919e2b-1dad-4fcb-9ec5-d618ce6c96a0.png" alt="Sign In" width="220px">
-  <img src="https://user-images.githubusercontent.com/53796370/133780394-bad5edaa-9094-4509-9460-3d343b366f73.png" alt="Home" width="220px">
-  <img src="https://user-images.githubusercontent.com/53796370/133780386-2c2e940e-5fd1-41f0-8e5b-f4e57777ef84.png" alt="New Transaction" width="220px">
-  <img src="https://user-images.githubusercontent.com/53796370/133780398-16830d56-db67-4053-b062-516a027d8b11.png" alt="Summary" width="220px">
+  <img src="https://user-images.githubusercontent.com/53796370/133780396-1b919e2b-1dad-4fcb-9ec5-d618ce6c96a0.png" alt="Sign In" width="270px">
+  <img src="https://user-images.githubusercontent.com/53796370/133780394-bad5edaa-9094-4509-9460-3d343b366f73.png" alt="Home" width="270px">
+  <br>
+  <img src="https://user-images.githubusercontent.com/53796370/133780386-2c2e940e-5fd1-41f0-8e5b-f4e57777ef84.png" alt="New Transaction" width="270px">
+  <img src="https://user-images.githubusercontent.com/53796370/133780398-16830d56-db67-4053-b062-516a027d8b11.png" alt="Summary" width="270px">
 </div>
 
 <br>
