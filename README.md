@@ -60,7 +60,7 @@ Developed with React Native and TypeScript.
 
 ## 🏁 Starting the project:
 
-Clone the project: `git clone https://github.com/LiajuX/Ignite-ReactNative-StreamData`
+Clone the project: `git clone https://github.com/LiajuX/Ignite-ReactNative-GoFinances`
 
 ❗ **NOTE:** If you don't have yarn installed, use npm instead.
 <br>
